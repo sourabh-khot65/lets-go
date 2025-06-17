@@ -1,7 +1,7 @@
 # Let's Learn Go! 🚀
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GO_LEARN.png" alt="Go Gopher" width="200"/>
+  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/TEACHING_GOPHER.png" alt="Go Gopher" width="200"/>
   <h3>A Comprehensive Go Learning Resource</h3>
 </div>
 
@@ -40,7 +40,7 @@ Welcome to **Let's Learn Go!** - your comprehensive guide to mastering Go progra
 ## 🚀 Why Choose Go?
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_ADADEMY.png" alt="Go Benefits" width="150"/>
+  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/DOCTOR_STRANGE_GOPHER.png" alt="Go Benefits" width="150"/>
 </div>
 
 Go is designed for the modern software development landscape:
@@ -123,6 +123,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/VS CODE GOPHER.png" alt="Happy Coding" width="100"/>
+  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/VS%20CODE%20GOPHER.png" alt="Happy Coding" width="100"/>
   <p><strong>Happy coding with Go! 🎉</strong></p>
 </div>
