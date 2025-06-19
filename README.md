@@ -8,8 +8,6 @@
 ---
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-blue.svg)](https://golang.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Welcome to **Let's Learn Go!** - your comprehensive guide to mastering Go programming. Whether you're a complete beginner or an experienced developer looking to add Go to your toolkit, this repository provides structured learning materials, hands-on projects, and curated resources to accelerate your Go journey.
@@ -92,12 +90,6 @@ cd tutorials
 
 ## 📈 Community & Support
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GoCommunity.png" alt="Community" width="120"/>
-</div>
-
-Join our growing community of Go learners and contributors:
-
 - 💬 **Discussions** - Share your learning experiences
 - 🐛 **Issue Reports** - Help improve the content
 - ✨ **Contributions** - Add new tutorials and examples
@@ -106,12 +98,6 @@ Join our growing community of Go learners and contributors:
 ## 🤝 Contributing
 
 We welcome contributions from the community! Whether you're fixing a typo, adding a new tutorial, or improving existing content, every contribution helps make this resource better for everyone.
-
-See our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get started.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
